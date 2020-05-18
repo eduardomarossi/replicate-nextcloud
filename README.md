@@ -6,6 +6,7 @@ reupload-nextcloud allows to quickly upload a folder recursively to your Nextclo
 ## Requeriments
 
 - Python 3.6+
+- curl
 - Nextcloud with WebDAV enabled and working
 
 ## Quickstart
